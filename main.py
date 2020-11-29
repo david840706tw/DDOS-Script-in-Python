@@ -1,9 +1,9 @@
 import threading
 import socket
 
-target = '192.168.0.1'
+target = 'XXX.XXX.X.X'
 port = 80
-fack_ip = '182.21.20.32'
+fack_ip = '182.XX.20.32'
 
 already_connected = 0
 
